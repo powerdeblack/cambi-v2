@@ -13,4 +13,4 @@ já compilado, na pasta `site/`. O código-fonte, os programas e os testes ficam
 O app avaliado no hackathon Colosseum é outro: está no branch `main` de powerdeblack/cambi, com o programa e o pool
 originais, e não foi alterado.
 
-Compilado a partir do commit `d304818` do branch `v2`.
+Compilado a partir do commit `85f9843` do branch `v2`.
